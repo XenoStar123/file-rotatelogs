@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/XenoStar123/file-rotatelogs/internal/fileutil"
 	"github.com/jonboulle/clockwork"
-	"github.com/lestrrat-go/file-rotatelogs/internal/fileutil"
 	"github.com/lestrrat-go/strftime"
 	"github.com/stretchr/testify/assert"
 )
